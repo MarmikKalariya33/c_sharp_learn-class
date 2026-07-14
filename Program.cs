@@ -18,8 +18,13 @@
             //possitiveornagative.posneg();
             //sum.addition();
             //table.multiplication();
+            //@foreach.foreachloop();
             //StringUpper.upper();
-            Mr.hello();
+            //mr.hello();
+            //Isupper.isupper();
+            //armstrong.arm();
+            //series.sumseries();
+            daimandpatten.ptn();
 
         }
     }

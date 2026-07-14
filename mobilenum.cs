@@ -6,16 +6,20 @@ namespace c__learn
     {
         public static void mobilenumber()
         {
-            string number;
-            Console.Write("enter a mobile num : ");
-            Console.ReadLine();
+            Console.Write("Enter a mobile number: ");
+            string number = Console.ReadLine();
+
             if (number.Length >= 5)
             {
                 string result = number.Substring(0, number.Length - 5) + "XXXXX";
-                Console.WriteLine(result);
+                Console.WriteLine("Masked Number: " + result);
             }
-            Console.ReadLine();
+            else
+            {
+                Console.WriteLine("Please enter at least 5 digits.");
+            }
 
+            Console.ReadLine();
         }
     }
 }

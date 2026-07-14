@@ -4,7 +4,7 @@ using System.Text;
 
 namespace c__learn
 {
-    internal class Mr
+    internal class mr
     {
         public static void hello()
         {

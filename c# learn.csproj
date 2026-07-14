@@ -6,10 +6,7 @@
     <RootNamespace>c__learn</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>c__learn.Program</StartupObject>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="System.Console" Version="4.3.1" />
-  </ItemGroup>
 
 </Project>
