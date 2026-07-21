@@ -1,4 +1,7 @@
-﻿namespace c__learn
+﻿using c__learn.Tutorial_2;
+using CalculatorApplication;
+
+namespace c__learn
 {
     internal class Program
     {
@@ -20,12 +23,24 @@
             //table.multiplication();
             //@foreach.foreachloop();
             //StringUpper.upper();
-            //mr.hello();
+            //Mr.hello();
             //Isupper.isupper();
             //armstrong.arm();
             //series.sumseries();
-            daimandpatten.ptn();
+            //daimandpatten.ptn();
+            //PrintName.print();
 
+
+            //First.Program();
+            //Second.program();
+            //Third.program();
+            //Forth.program();
+            //Fifth.program();
+            //Six.Program(args);
+            //TestRef.run();
+            //TestOut.run();
+            //Eleven.program();
+            Twelve.program();
         }
     }
 }
