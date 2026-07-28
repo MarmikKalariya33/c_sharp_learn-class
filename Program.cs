@@ -1,4 +1,5 @@
-﻿using c__learn.Tutorial_2;
+﻿using c__learn.String;
+using c__learn.Tutorial_2;
 using CalculatorApplication;
 
 namespace c__learn
@@ -40,7 +41,11 @@ namespace c__learn
             //TestRef.run();
             //TestOut.run();
             //Eleven.program();
-            Twelve.program();
+            //Twelve.program();
+            //reverse.str();
+            //vovels.vov();
+            //Nine.rep();
+            Ten.tens(args);
         }
     }
 }

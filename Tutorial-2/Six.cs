@@ -4,7 +4,7 @@ namespace c__learn.Tutorial_2
 {
     internal class Six
     {
-        public static void Program(String[]args)
+        public static void Program(string [] args)
         {
 
             Console.WriteLine("Hello, World!");
