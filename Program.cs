@@ -1,6 +1,7 @@
 ﻿using c__learn.String;
 using c__learn.Tutorial_2;
 using c__learn.Tutorial_3;
+using c__learn.pattern;
 using CalculatorApplication;
 
 namespace c__learn
@@ -52,7 +53,14 @@ namespace c__learn
             //t3_1.run();
             //t3_2.run();
             //t3_3.run();
-            t3_4.run();
+            //t3_4.run();
+            //solid.ptrn();
+
+
+            //hollow.holo();
+            //pyramid.pym();
+            inverspyramid.inv();
+
         }
     }
 }
