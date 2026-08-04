@@ -1,5 +1,6 @@
 ﻿using c__learn.String;
 using c__learn.Tutorial_2;
+using c__learn.Tutorial_3;
 using CalculatorApplication;
 
 namespace c__learn
@@ -45,7 +46,13 @@ namespace c__learn
             //reverse.str();
             //vovels.vov();
             //Nine.rep();
-            Ten.tens(args);
+            //Ten.tens(args);
+
+
+            //t3_1.run();
+            //t3_2.run();
+            //t3_3.run();
+            t3_4.run();
         }
     }
 }
