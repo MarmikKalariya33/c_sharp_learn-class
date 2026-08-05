@@ -56,7 +56,7 @@ namespace c__learn
             //t3_4.run();
             //solid.ptrn();
 
-
+            //solid.ptrn();
             //hollow.holo();
             //pyramid.pym();
             inverspyramid.inv();
