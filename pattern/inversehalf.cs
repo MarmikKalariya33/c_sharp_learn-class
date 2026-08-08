@@ -4,12 +4,16 @@ using System.Text;
 
 namespace c__learn.pattern
 {
-    internal class pyramid
+    internal class inversehalf
     {
         public static void pym()
         {
-         for(int i=1; i<=4; i++)
-            {
+            for(int i =1; i<=4; i++)
+            {// inner loop space print  
+                for(int j=1; j<=4-i; j++)
+                {
+                    Console.Write(" ");
+                }
                 for(int j=1; j<=i; j++)
                 {
                     Console.Write("*");
@@ -20,7 +24,7 @@ namespace c__learn.pattern
     }
 }
 
-// *
-// * *
-// * * *
+//       *
+//     * *
+//   * * *
 // * * * *
