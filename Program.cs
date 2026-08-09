@@ -58,10 +58,11 @@ namespace c__learn
 
             //solid.ptrn();
             //hollow.holo();
-            pyramid.pym();
+            //pyramid.pym();
             //inverspyramid.inv();
             //inversehalf.pym();
-
+            //numpyramid.num();
+            revnumpyramid.inv();
         }
     }
 }
