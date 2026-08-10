@@ -62,7 +62,8 @@ namespace c__learn
             //inverspyramid.inv();
             //inversehalf.pym();
             //numpyramid.num();
-            revnumpyramid.inv();
+            //revnumpyramid.inv();
+            floydnum.fly();
         }
     }
 }

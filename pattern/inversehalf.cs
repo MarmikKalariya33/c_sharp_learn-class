@@ -8,8 +8,8 @@ namespace c__learn.pattern
     {
         public static void pym()
         {
-            for(int i =1; i<=4; i++)
-            {// inner loop space print  
+            for(int i=1; i<=4; i++)
+            {
                 for(int j=1; j<=4-i; j++)
                 {
                     Console.Write(" ");
@@ -20,9 +20,9 @@ namespace c__learn.pattern
                 }
                 Console.WriteLine();
             }
+            }
         }
     }
-}
 
 //       *
 //     * *

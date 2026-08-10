@@ -8,15 +8,16 @@ namespace c__learn.pattern
     {
         public static void ptrn()
         {
-           for(int i=1; i<=4; i++)
+            for(int i=1; i<=5; i++)
             {
-                for(int j=1; j<=4; j++)
+                for(int j=1; j<=5; j++)
                 {
                     Console.Write("*");
                 }
                 Console.WriteLine();
             }
         }
+        
     }
 }
 
