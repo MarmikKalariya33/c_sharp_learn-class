@@ -54,6 +54,8 @@ namespace c__learn
             //t3_2.run();
             //t3_3.run();
             //t3_4.run();
+            //t3_5.run();
+            t3_6.six();
             //solid.ptrn();
 
             //solid.ptrn();
@@ -63,7 +65,8 @@ namespace c__learn
             //inversehalf.pym();
             //numpyramid.num();
             //revnumpyramid.inv();
-            floydnum.fly();
+            //floydnum.fly();
+            //_0_1triangle.tri();
         }
     }
 }
