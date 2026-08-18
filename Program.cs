@@ -56,6 +56,12 @@ namespace c__learn
             //t3_4.run();
             //t3_5.run();
             //t3_6.six();
+            //t3_11.Main();
+            //t3_12.student();
+            //t3_13.product();
+            //t3_14.employee();
+            //t3_15.student();
+            t3_16.employee();
             //solid.ptrn();
 
             //solid.ptrn();
@@ -67,7 +73,7 @@ namespace c__learn
             //revnumpyramid.inv();
             //floydnum.fly();
             //_0_1triangle.tri();
-            butterfly.but();
+            //butterfly.but();
         }
     }
 }

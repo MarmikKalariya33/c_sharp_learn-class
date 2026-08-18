@@ -16,9 +16,9 @@ namespace c__learn.pattern
                 }
                 Console.WriteLine();
             }
-            }
         }
     }
+}
 
 // 1
 // 1 2 
