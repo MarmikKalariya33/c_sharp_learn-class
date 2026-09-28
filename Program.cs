@@ -3,6 +3,7 @@ using c__learn.Tutorial_2;
 using c__learn.Tutorial_3;
 using c__learn.pattern;
 using CalculatorApplication;
+using c__learn.deligate;
 
 namespace c__learn
 {
@@ -61,7 +62,7 @@ namespace c__learn
             //t3_13.product();
             //t3_14.employee();
             //t3_15.student();
-            t3_16.employee();
+            //t3_16.employee();
             //solid.ptrn();
 
             //solid.ptrn();
@@ -74,6 +75,7 @@ namespace c__learn
             //floydnum.fly();
             //_0_1triangle.tri();
             //butterfly.but();
+            c__learn.deligate.Delegate.Main(args);
         }
     }
 }
